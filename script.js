@@ -1,3 +1,6 @@
+// I know that generally, this many comments is excessive, but I had no idea
+// how to do this before and wanted to note the specific function of each section for myself.
+
 document.addEventListener("DOMContentLoaded", () => {
 // Get all the nav links at top of page
 const links = document.querySelectorAll(".tab-link");

@@ -15,6 +15,10 @@ h1 {
 p {
     font-size: 1.75em;
 }
+
+img {
+    border: 5px solid black;
+  }  
     
 .underline {
     text-decoration: underline;
